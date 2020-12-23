@@ -15,7 +15,8 @@ Repositório da disciplina de Lógica da Pesquisa Científica do <a href = "http
 </ul>
 
 <strong>Links Interessantes</strong></p>
-<ul>
+<ul> 
 <li><span class="fontstyle0"><a href="https://www.researchgate.net/">https://www.researchgate.net/</a></span></li>
+<li><span class="fontstyle0"><a href="https://time.is/Anywhere_on_Earth">https://time.is/Anywhere_on_Earth</a></span></li>
 </ul>
 
