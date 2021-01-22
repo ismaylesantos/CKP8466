@@ -23,5 +23,7 @@ Repositório da disciplina de Lógica da Pesquisa Científica do <a href = "http
 <ul> 
 <li><span class="fontstyle0"><a href="https://www.researchgate.net/">https://www.researchgate.net/</a></span></li>
 <li><span class="fontstyle0"><a href="https://time.is/Anywhere_on_Earth">https://time.is/Anywhere_on_Earth</a></span></li>
+<li><span class="fontstyle0"><a href="https://www.sigsoft.org/awards/distinguishedPaperAward.html">https://www.sigsoft.org/awards/distinguishedPaperAward.html</a></span></li>
+<li><span class="fontstyle0"><a href="http://statistics-help-for-students.com">http://statistics-help-for-students.com</a></span></li>
 </ul>
 
