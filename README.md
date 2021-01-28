@@ -25,5 +25,6 @@ Repositório da disciplina de Lógica da Pesquisa Científica do <a href = "http
 <li><span class="fontstyle0"><a href="https://time.is/Anywhere_on_Earth">https://time.is/Anywhere_on_Earth</a></span></li>
 <li><span class="fontstyle0"><a href="https://www.sigsoft.org/awards/distinguishedPaperAward.html">https://www.sigsoft.org/awards/distinguishedPaperAward.html</a></span></li>
 <li><span class="fontstyle0"><a href="http://statistics-help-for-students.com">http://statistics-help-for-students.com</a></span></li>
+<li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-submissao-anonima-proteja-sua-identidade-corretamente/">http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-submissao-anonima-proteja-sua-identidade-corretamente/</a></span></li>  
 </ul>
 
