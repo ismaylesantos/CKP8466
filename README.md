@@ -28,5 +28,9 @@ Repositório da disciplina de Lógica da Pesquisa Científica do <a href = "http
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-submissao-anonima-proteja-sua-identidade-corretamente/">http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-submissao-anonima-proteja-sua-identidade-corretamente/</a></span></li>  
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/">  http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/</a></span></li>  
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-avaliar-artigos-nao-jogue-no-time-adversario/">http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-avaliar-artigos-nao-jogue-no-time-adversario/</a></span></li>  
+<li><span class="fontstyle0"><a href="http://ojs.rbpg.capes.gov.br/index.php/rbpg/article/view/947">Dez coisas que você deveria saber sobre o Qualis</a></span></li>  
+  
+  
+  
 </ul>
 
