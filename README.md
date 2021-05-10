@@ -12,6 +12,7 @@ Repositório da disciplina de Lógica da Pesquisa Científica do <a href = "http
 <p>Artigos</p>
 <ul> 
 <li><span class="fontstyle0"><a href= "https://www.researchgate.net/publication/216546082_Uma_Reflexao_sobre_a_Pesquisa_em_Ciencia_da_Computacao_a_Luz_da_Classificacao_das_Ciencias_e_do_Metodo_Cientifico">Uma Reflexão sobre a Pesquisa em Ciência da Computação à Luz da Classificação das Ciências e do Método Científico</a></span></li>
+<li><span class="fontstyle0"><a href= "https://www.researchgate.net/publication/220162257_Rumo_ao_Titulo_de_DoutorMestre">Rumo ao Tìtulo de Doutor/Mestre</a></span></li>
 </ul>
 
 <p>Relatório Técnico</p>
